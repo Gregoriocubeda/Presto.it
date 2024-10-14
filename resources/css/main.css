@@ -1,0 +1,290 @@
+.revisortitle{
+    color: #274c77;
+    margin-top: 5vh;
+}
+.revisorbackground{
+    color: #E7ECEF;
+}
+.cardborder{
+    color: #274c77 !important;
+    border-radius: 5vh !important;
+    backdrop-filter: blur(5px); background-color: #E7ECEF; border-radius: 26px; box-shadow: 35px 35px 68px 0px rgba(231, 236, 239, 0.5), inset -12px -12px 16px 0px rgba(231, 236, 239, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+    border-width: 1px;
+}
+
+.descriptionsize{
+    font-size: large !important;
+}
+.bottonecustom{
+    border: none;
+    color: #E7ECEF;
+    font-weight: 600;
+    background-color:#5F96BA !important ;
+    border-radius: 5vh;
+    padding: 16px;
+    backdrop-filter: blur(5px); background-color: rgba(255, 255, 255, 1); border-radius: 26px; box-shadow: 0px 35px 68px 0px rgba(95, 150, 186, 0.5), inset 0px -8px 16px 0px rgba(95, 150, 186, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+
+    
+}
+.circle{
+    margin: 7.25px;
+    background-color: #5F96BA;
+    padding: 5.5px;
+    border-radius: 75vh;
+    color: #E7ECEF;
+    
+}
+.linkstyle{
+    color: #E7ECEF;
+    font-weight: 500 !important;
+    margin-bottom: 50px;
+    
+}
+
+.revisioncount{
+    color: #E7ECEF; 
+}
+
+.titleindex{
+    color: #274c77 !important;
+    font-weight: 500;
+
+}
+
+.bottonestyle{
+    border-color: #274c77;
+    border-width: 0.25px;
+    background-color: #274c77;
+    padding: 2.5vh;
+    border-radius: 50vh;
+    box-shadow: 100px;
+    color: #E7ECEF;
+    font-weight: 750 !important;
+    box-shadow: 0px 15px 25px 0px rgba(0, 0, 0, 0.5), inset 0px 0px 0px 0px rgba(0, 0, 0, 0.6), inset 0px 5px 18px 0px rgb(255, 255, 255);   
+
+}
+
+.loremstyle{
+    font-weight: 500;
+    color: #5F96BA;
+}
+
+.cardarticle{
+    border-width: 1px;
+    background-color: #5F96BA;
+    box-shadow: 100px;
+    color: #E7ECEF;
+    font-weight: 750;
+    box-shadow: 0px 7.5px 15px 0px rgba(0, 0, 0, 0.5), inset 0px 0px 0px 0px rgba(0, 0, 0, 0.6), inset 0px 5px 18px 0px rgb(255, 255, 255);
+    width: 30vh;
+    margin-bottom: 25px;
+}
+
+.articletitle{
+    
+color: #E7ECEF;
+font-weight: 750 !important;
+
+}
+
+.bottonearticle{
+    border: none;
+    background-color: #274c77;
+    padding: 2.5vh;
+    border-radius: 50vh;
+    box-shadow: 100px;
+    color: #E7ECEF;
+    font-weight: 750 !important;
+    box-shadow: 0px 15px 25px 0px rgba(0, 0, 0, 0.5), inset 0px 0px 0px 0px rgba(0, 0, 0, 0.6), inset 0px 5px 18px 0px rgb(255, 255, 255);   
+}
+
+.colorelink{
+    color: #274c77;
+    font-weight: 750 !important;
+}
+
+.magictrick{
+display: none;
+}
+
+.containerstyle{
+    margin: 50vh;
+}
+
+.categorystyle{
+    color: #274c77 !important;
+    border-width: 2.5px !important;
+    border-radius: 2vh !important;
+    border-color: #5F96BA !important;
+}
+
+.bottonecarosello{
+    background-color: #274c77;
+    margin-bottom: 10px;
+    border-radius: 5vh;
+    height: 15vh;
+    width: 15vh;
+    margin-top: 22.5vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+
+.dettagliocard{
+    background-color: #5F96BA;
+    border-radius: 5vh;
+}
+
+.dettagliocard2{
+    background-color: #E7ECEF;
+    border-radius: 5vh;
+}
+
+.stilealert{
+    width: 7.5vh;
+}
+
+.img-preview{
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 120px;
+width: 120px;
+}
+
+.imagecard{
+    border-width: 8vh !important;
+    border-color: #274c77 !important;
+    background-color: #E7ECEF;
+        border-top-left-radius: 5vh ;
+        border-top-right-radius: 5vh ;
+        -webkit-box-shadow: 6px 0px 15px -4px #000000; 
+        box-shadow: 6px 0px 15px -4px #000000;
+        padding: 2.5px;
+        width: 30vh;
+
+    }
+
+        
+
+
+.margine{
+    margin-left: 50vh;
+    width: 62.5vh;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+}
+
+.carosellostyle{
+    border-radius: 10vh;
+}
+
+.colorefreccia{
+    background-color: #274c77 !important;
+}
+
+.immaginestyle{
+    padding-top: 2.5vh;
+    padding-bottom: 2.5vh;
+    border-color: #274c77;
+    border-width: 2px;
+
+}
+
+.marginfooter{
+    margin-bottom: 50vh;
+}
+
+.bordercolor{
+    border-color: #274c77;
+    border-width: 1px;
+}
+
+.marginesinistro{
+    margin-left: 30vh !important;
+    margin-bottom: 10vh;
+}
+
+.cardstile{
+
+    border-radius: 5vh;
+    backdrop-filter: blur(5px); background-color: #E7ECEF; border-radius: 26px; box-shadow: 35px 35px 68px 0px rgba(231, 236, 239, 0.5), inset -12px -12px 16px 0px rgba(231, 236, 239, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+}
+
+.cardcustom{
+   
+    border-width: 1px;
+    backdrop-filter: blur(5px); background-color: #E7ECEF; border-radius: 26px; box-shadow: 35px 35px 68px 0px rgba(231, 236, 239, 0.5), inset -12px -12px 16px 0px rgba(231, 236, 239, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+}
+
+.cardcustomtitle{
+    color: #274c77;
+}
+.cardcustomprice{
+    color: #274c77;
+}
+
+.stilecat{
+    color: #5F96BA;
+    text-decoration: none !important;
+}
+
+.bottoneinserisci{
+    color: #E7ECEF;
+    background-color: #274c77 !important;
+    backdrop-filter: blur(5px); background-color: rgba(255, 255, 255, 1); border-radius: 26px; box-shadow: 35px 35px 68px 0px rgba(39, 76, 119, 0.5), inset -12px -12px 16px 0px rgba(39, 76, 119, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+    padding: 2.5vh;
+    border-radius: 5vh;
+    font-weight: 600;
+    border: none;
+}
+
+.show{
+    border-color: #E7ECEF !important;
+}
+
+
+.revisorh2{
+    height: fit-content !important;
+    white-space:nowrap !important;
+
+    
+
+}
+
+.cardBag{
+    
+    background-color: #5F96BA;
+    
+    border-radius: 75vh;
+    color: #E7ECEF;
+
+    width: 50vw !important;
+    
+    
+    
+    
+}
+
+.nolink{
+    text-decoration: none;
+}
+
+.stilegoogle{
+    text-decoration: none;
+    color: #5F96BA;
+    background-color: #E7ECEF;
+    padding: 2vh;
+    border-radius: 4vh;
+}
+
+.bottonecstm{
+    margin-top: 1vh;
+    color: #274c77;
+    background-color: #E7ECEF;
+    padding: 1.5vh;
+    border-radius: 4vh;
+    border: none;
+    font-weight: 500;
+    backdrop-filter: blur(5px); background-color:#E7ECEF ; border-radius: 26px; box-shadow: 35px 35px 68px 0px rgba(95, 150, 186, 0.5), inset -8px -8px 16px 0px rgba(95, 150, 186, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+}
+
